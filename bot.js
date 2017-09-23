@@ -84,4 +84,4 @@ function IamNotCommand(message, arugment)
     }
 }
 
-client.login('MzU1NTM4NzgxNTU5ODQ4OTYy.DJOQzw.awwGi6pDCn5pN0hR_nOIs9Weeio');
+client.login('[Token Here]');
